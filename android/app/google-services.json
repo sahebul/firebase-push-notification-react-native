@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1008987296574",
+    "firebase_url": "https://react-native-firebase-265da.firebaseio.com",
+    "project_id": "react-native-firebase-265da",
+    "storage_bucket": "react-native-firebase-265da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008987296574:android:a4f63cd586d4dcac1d926f",
+        "android_client_info": {
+          "package_name": "com.sahebul.rnnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008987296574-rps4ib0moe0sk7ntj4hjdkdb6tgc6jen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEHQCc7farX860OpuDc2LhNQHydVtwpEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008987296574-rps4ib0moe0sk7ntj4hjdkdb6tgc6jen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
